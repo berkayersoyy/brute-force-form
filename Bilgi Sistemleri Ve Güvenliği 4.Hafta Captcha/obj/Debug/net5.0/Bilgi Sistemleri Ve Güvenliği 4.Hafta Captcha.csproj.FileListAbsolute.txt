@@ -1,0 +1,27 @@
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.exe
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.deps.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.runtimeconfig.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\ref\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Helpers.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.csproj.CopyComplete
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\ref\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\obj\Debug\net5.0\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.genruntimeconfig.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\IronOcr.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\bin\Debug\net5.0\WebDriver.dll

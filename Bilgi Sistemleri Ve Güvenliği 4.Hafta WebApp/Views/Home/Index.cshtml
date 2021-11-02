@@ -1,0 +1,57 @@
+﻿
+@model CaptchaCodeModel
+@{
+    ViewData["Title"] = "Bilgi Sistemleri ve Güvenliği 4. Hafta";
+}
+
+ 
+<div class="wrapper">
+    @using (Html.BeginForm("Submit", "Home", FormMethod.Post))  
+    { 
+        <div class="field">
+        <label class="label">AD SOYAD</label>
+        <div class="control has-icons-left has-icons-right">
+            <input class="input" type="text" name="username" placeholder="Ad soyad" id="username">
+            <span class="icon is-small is-left">
+                <i class="fas fa-user"></i>
+            </span>
+        </div>
+    </div>
+    <div class="field">
+        <label class="label">Telefon</label>
+        <div class="control has-icons-left has-icons-right">
+            <input class="input" type="text" name="tel" placeholder="Telefon" id="phone">
+            <span class="icon is-small is-left">
+                <i class="fas fa-phone"></i>
+            </span>
+        </div>
+    </div>
+    <div class="field">
+        <label class="label">Adres</label>
+        <div class="control has-icons-left has-icons-right">
+            <input class="input" type="text" name="adress" placeholder="Adres" id="adress">
+            <span class="icon is-small is-left">
+                <i class="fas fa-user"></i>
+            </span>
+        </div>
+    </div>
+    <div class="field">
+        <label class="label"></label>
+        <p class="control has-icons-left">
+            <img src="2.png"
+                 name="capt" id="captchaa">
+        </p>
+    </div>
+        <div class="field">
+            <label class="label">CAPTCHA</label>
+            <p class="control has-icons-left">
+                @Html.TextBoxFor(model => model.CaptchaCode, new {id = "captcha"})
+                <span class="icon is-small is-left">
+                    <i class="fas fa-certificate"></i>
+                </span>
+            </p>
+        </div>
+        <button id="submitbutton" type="submit">Submit</button>
+    }
+   
+</div>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIBJ1Zb5MSG6lYVSKPEnLuSospk4mOol3aoqE9oLj5C0l8NBklUb2u2FPauSqthQN6WsCKgkySaVqtwqDycrUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BERKAY\\source\\repos\\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\\Helpers\\Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BERKAY\\.nuget\\packages\\ironocr\\2021.11.0\\ironocr.2021.11.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

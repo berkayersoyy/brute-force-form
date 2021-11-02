@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SfMtgZWZP0MTv1odMX1K5Jc0kBbwIiHO6b/aSoEvif8z0ZGCZUuqgE+F3DyQcjsI2BGgMX1QuTsD+bq76n40Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BERKAY\\source\\repos\\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha\\Bilgi Sistemleri Ve Güvenliği 4.Hafta Captcha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BERKAY\\.nuget\\packages\\ironocr\\2021.11.0\\ironocr.2021.11.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\BERKAY\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
